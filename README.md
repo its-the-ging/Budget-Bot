@@ -1,16 +1,17 @@
-# Budget-Bot
+# DeepTrade
 AI-based budget tracker, portfolio builder and investment analyzer
 
-## Version 0.1 - Vanguard Portfolio Tracker
-- [ ] Ability to ingest and generate Pandas dataframes from Vanguard Personal Investment CSV sheets
-- [ ] Generate applicable information in a readable format to aid in understanding investment portfolio
-- [ ] Generate accompanying graphical analysis of investment data
-- [ ] Track goals and achievements in local database
-## Version 0.2 - SoFi Budget Tracker
-- [ ] Ability to ingest and generate Pandas dataframes from SoFi banking CVS sheets
-- [ ] Generate insights and graphical analysis of spending habits
-- [ ] Track goals and achievements in local database
-## Version 0.1 - Stock Watcher
-- [ ] Maintain a list of user-selected stocks for monitoring
-- [ ] Use industry standard formulas and statistics to determine good buy times for stocks being monitored
-- [ ] Use news analysis to aid in stock purchase determination
+## Version 0.1 - Basic Stock Data Retrieval
+- [ ] Integration of YFinance to retrieve data
+- [ ] Ability to easily retrieve recent stock history based on ticker symbol
+- [ ] Ability to visualize stock performance over a selected time frame
+## Version 0.2 - Basic Industry Standard Measurements and Indicators
+- [ ] Utilize a variety of industry standard stock future algorithms to determine possible path of stocks
+- [ ] Advice on buy value of stock based on indicators
+## Version 0.3 - Basic Machine Learning Algorithms
+- [ ] Employ more advanced ML based algorithms
+## Version 0.4 - Deep Learning Algorithms
+- [ ] Employ advanced Neural Network architectures
+## Version 0.5 - News / Environment Analysis
+- [ ] Utilize sources outside of simple price analysis to determine futures
+- [ ] Deploy Deep Learning models to ingest price data as well as environment and news data
